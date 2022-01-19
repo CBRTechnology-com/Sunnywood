@@ -10,5 +10,5 @@ tableextension 50001 ExtendCustomer extends Customer
     }
 
     var
-
+        myInt: Integer;
 }
